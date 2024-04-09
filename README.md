@@ -1,4 +1,4 @@
-ChatGPT
+
 Alcohol Detection Based Vehicle Control System
 Overview
 This project aims to create a system for controlling vehicle speed based on alcohol detection. The system utilizes an Arduino board along with various sensors to monitor vehicle count, detect alcohol presence, and adjust speed limits accordingly.
